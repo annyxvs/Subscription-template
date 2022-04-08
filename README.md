@@ -7,7 +7,7 @@
 
 #### Features
 
-- [x] Cadastro de usuário
+- [x] User registration
 
 #### 🛠 Tecnologias
 
