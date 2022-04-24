@@ -3,6 +3,7 @@ import styled from "styled-components";
 const Input_style = styled.input`
   @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
   font-family: 'Poppins', sans-serif;
+  outline: none;
 
   display: block;
 
