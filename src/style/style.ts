@@ -1,6 +1,9 @@
 import styled from "styled-components";
 
 export const Main = styled.div`
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
   height:100vh;
   width:100vw;
 
