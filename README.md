@@ -13,7 +13,6 @@
 
 tools used:
 
-- [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 
 #### ✨ Result:
