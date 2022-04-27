@@ -14,6 +14,10 @@ const GlobalStyle = createGlobalStyle`
   input{
     outline: none;
   }
+  body{
+    width: 100vw;
+    height: 100vh;
+  }
 `
 
 export default GlobalStyle;
